@@ -467,7 +467,7 @@ class AIHammerPattern:
 
 ## 10. Conclusion
 
-The hammerTIME framework represents a significant advancement in memory security research, providing both comprehensive vulnerability assessment capabilities and sophisticated exploitation techniques. Our two-dimensional ROWHAMMER methodology demonstrates that current protection mechanisms remain insufficient against determined attackers with advanced tooling.
+The hammerTIME framework represents a significant advancement in memory security research, providing both comprehensive vulnerability assessment capabilities and sophisticated exploitation techniques. My two-dimensional ROWHAMMER methodology demonstrates that current protection mechanisms remain insufficient against determined attackers with advanced tooling.
 
 Key contributions include:
 
