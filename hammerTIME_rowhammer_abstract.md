@@ -192,7 +192,7 @@ The assessment engine implements sophisticated memory testing protocols:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Traditional ROWHAMMER attacks focus exclusively on immediate adjacent rows. Our two-dimensional approach extends targeting to include:
+Traditional ROWHAMMER attacks focus exclusively on immediate adjacent rows. My two-dimensional approach extends targeting to include:
 
 **Bank-Level Manipulation**
 - Cross-bank interference patterns
@@ -318,8 +318,8 @@ void hammer_kernel_memory(struct kernel_exploit *exp) {
 ### 6.3 Enterprise Assessment Performance
 
 **Large-Scale Testing Results:**
-- **1000+ Systems**: Automated vulnerability assessment
-- **47% Improvement**: Detection rate over conventional tools
+- **100+ Systems**: Automated vulnerability assessment
+- **~47% Improvement**: Detection rate over conventional tools
 - **<2% False Positives**: In enterprise environments
 - **Scalable Deployment**: Centralized management capabilities
 
