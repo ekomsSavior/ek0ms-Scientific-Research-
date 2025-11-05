@@ -9,9 +9,9 @@
 **Background:** Cloud identity attacks represent one of the most critical security threats in modern enterprise environments. 
 Microsoft Azure Entra ID (formerly Azure AD) provides robust security features, including Multi-Factor Authentication (MFA), yet sophisticated attack vectors continue to emerge that bypass these protections through human factors and permission abuse.
 
-**Objective:** This research presents a modular Python framework designed to demonstrate a sophisticated attack chain combining MFA fatigue, token hijacking, and admin consent abuse. The tool serves educational purposes and authorized security testing to help organizations understand and defend against these evolving threats.
+**Objective:** This research is designed to demonstrate a sophisticated attack chain combining MFA fatigue, token hijacking, and admin consent abuse. It serves educational purposes and authorized security testing to help organizations understand and defend against these evolving threats.
 
-**Methodology:** The framework implements three distinct modules that chain together to create a persistent attack vector:
+**Methodology:** This abstract implements three distinct modules that chain together to create a persistent attack vector:
 1. **MFA Fatigue Module:** Leverages OAuth 2.0 device code flows to generate multiple concurrent MFA prompts
 2. **Token Hijacking Module:** Captures and validates Graph API tokens upon user approval
 3. **Admin Consent Abuse Module:** Exploits privileged access to establish persistent backdoors
@@ -21,7 +21,7 @@ Microsoft Azure Entra ID (formerly Azure AD) provides robust security features, 
 - Excessive delegated permissions enabling privilege escalation
 - Admin consent grants creating persistent access vectors
 
-**Conclusion:** This framework highlights critical defensive gaps in Azure environments and emphasizes the need for comprehensive security controls, including Conditional Access policies, phishing-resistant authentication, and rigorous application permission monitoring.
+**Conclusion:** This research highlights critical defensive gaps in Azure environments and emphasizes the need for comprehensive security controls, including Conditional Access policies, phishing-resistant authentication, and rigorous application permission monitoring.
 
 ---
 
