@@ -494,6 +494,37 @@ I encourage responsible use of these findings to strengthen memory security acro
 
 ---
 
+## References
+
+1. Y. Kim, R. Daly, J. Kim, C. Fallin, J. H. Lee, D. Lee, C. Wilkerson, K. Lai, and O. Mutlu, “Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors,” *ISCA*, 2014. ([Carnegie Mellon University ECE][1])
+
+2. M. Seaborn and T. Dullien, “Exploiting the DRAM rowhammer bug to gain kernel privileges,” *Black Hat USA*, 2015 (presentation / whitepaper). ([Black Hat][2])
+
+3. V. van der Veen, Y. Fratantonio, M. Lindorfer, D. Gruss, C. Maurice, G. Vigna, H. Bos, K. Razavi and C. Giuffrida, “Drammer: Deterministic Rowhammer Attacks on Mobile Platforms,” *ACM CCS*, 2016. ([vvdveen.com][3])
+
+4. D. Gruss, C. Maurice, and S. Mangard, “Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript,” *DIMVA/DIMVA proceedings / arXiv*, 2015–2016. ([EURECOM][4])
+
+5. K. Razavi, B. Gras, E. Bosman, B. Preneel, C. Giuffrida, and H. Bos, “Flip Feng Shui: Hammering a Needle in the Software Stack,” *USENIX Security*, 2016. ([USENIX][5])
+
+6. P. Frigo, F. Ridder, F. Brasser, E. Vannacci, H. Bos, C. Giuffrida, and K. Razavi, “TRRespass: Exploiting the Many Sides of Target Row Refresh,” VUSec / paper (TRRespass project page / PDF), 2020. ([vusec][6])
+
+7. P. Jattke, V. van der Veen, P. Frigo, S. Gunter, and K. Razavi, “BLACKSMITH: Scalable Rowhammering in the Frequency Domain,” ETH Zurich / COMSEC (paper + fuzzer repo). ([comsec.ethz.ch][7])
+
+8. O. Mutlu and J. S. Kim, “RowHammer: A Retrospective,” (survey/retrospective on RowHammer research), *IEEE/TCAD / COMSEC retrospective*, 2019. ([People ETH Zürich][8])
+
+9. N. Kamadan, W. Wang, S. van Schaik, C. Garman, D. Genkin, and Y. Yarom, “ECC.fail: Mounting Rowhammer Attacks on DDR4 Servers with ECC Memory,” *USENIX Security*, 2025. ([USENIX][9])
+
+10. D. Meyer et al., “PHOENIX: Rowhammer Attacks on DDR5 with Self-Protecting Mitigations (reverse engineering of DDR5 TRR/mitigations),” ETH Zurich / COMSEC (Phoenix project), 2025. ([comsec.ethz.ch][10])
+
+11. F. Yao, A. S. Rakin, and D. Fan, “DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips,” *USENIX Security*, 2020 — example of application-level impacts (ML targetting via bit flips). ([comsec-files.ethz.ch][11])
+
+12. K. Razavi et al., “SMASH / Many-sided and Synchronized Rowhammer variants” and related browser-based advancements (Posthammer, SMASH, SledgeHammer, etc.) — representative project and follow-on works (COMSEC / VUSec publications; see linked items). ([vusec][6])
+
+13. JEDEC Solid State Technology Association, “JESD79-5C: Double Data Rate 5 (DDR5) SDRAM,” JEDEC standard (DDR5 specification / mitigation guidance), 2024. ([comsec-files.ethz.ch][11])
+
+---
+
+
 **Citation:**  
 ek0ms savi0r. "HAMMERTIME: Advanced ROWHAMMER Exploitation Framework." hammerTIME Research Initiative, October 2025.
 
