@@ -1,4 +1,4 @@
-# White Paper: Azure Identity Attack Framework - A Modular Tool for Demonstrating MFA Fatigue, Token Hijacking, and Admin Consent Abuse
+# White Paper: Azure Identity Attack - Demonstrating MFA Fatigue, Token Hijacking, and Admin Consent Abuse
 
 ## Abstract
 
