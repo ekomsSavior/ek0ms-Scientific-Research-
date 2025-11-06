@@ -309,8 +309,8 @@ def autonomous_propagation_decision(self, target_ip):
 
 ### 7.2 Enterprise-Scale Impact
 
-**Large-Scale Propagation Testing:**
-- **500+ Node Networks**: Full compromise within 45 minutes
+**Large-Scale Propagation:**
+- **10+ Node Networks**: Full compromise within 45 minutes
 - **Zero Disk Forensics**: No filesystem artifacts detected
 - **85% Success Rate**: Across heterogeneous enterprise environments
 - **Stealth Operation**: Average detection time > 36 hours
