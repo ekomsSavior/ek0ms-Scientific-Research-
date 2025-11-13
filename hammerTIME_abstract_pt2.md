@@ -1,7 +1,7 @@
 # HAMMERTIME: Advanced ROWHAMMER Exploitation Framework
 ## Autonomous Memory-Resident Propagation and Two-Dimensional DRAM Vulnerability Assessment
 
-**Author:** ek0ms savi0r  
+**Author:** ek0ms savi0r, CEH | Security Researcher 
 **Organization:** hammerTIME Research Initiative  
 **Date:** October 2025
 
