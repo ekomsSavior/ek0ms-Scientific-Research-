@@ -2,7 +2,7 @@
 
 ## Abstract
 
-**Author:** ek0ms savi0r
+**Author:** ek0ms savi0r, CEH | Security Researcher 
 
 **Date:** Nov 2025
 
