@@ -4,7 +4,6 @@
 **Author:** ek0ms savi0r | CEH  
 **Affiliation:** Security Researcher | saviorSEC
 **Contact:** https://github.com/ekomsSavior  
-
 **Publication Date:** Nov. 2025  
 **Document Version:** 2.0  
 
