@@ -11,7 +11,7 @@
 
 ## Executive Summary
 
-Aetherius represents a paradigm shift in advanced persistent threat (APT) frameworks by leveraging blockchain technology for command and control (C2) operations. This white paper details the world's first production-ready blockchain-based C2 infrastructure that eliminates traditional single points of failure while providing unprecedented persistence and stealth capabilities. By integrating Ethereum smart contracts with advanced tradecraft techniques, Aetherius achieves a level of operational resilience previously considered theoretical.
+Aetherius represents a paradigm shift in advanced persistent threat (APT) frameworks by leveraging blockchain technology for command and control (C2) operations. This white paper details blockchain-based C2 infrastructure that eliminates traditional single points of failure while providing unprecedented persistence and stealth capabilities. By integrating Ethereum smart contracts with advanced tradecraft techniques, Aetherius achieves a level of operational resilience previously considered theoretical.
 
 ---
 
