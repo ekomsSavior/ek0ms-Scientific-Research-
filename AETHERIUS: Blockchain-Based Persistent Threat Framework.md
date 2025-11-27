@@ -2,9 +2,9 @@
 ## The Evolution of Resilient Command and Control Through Decentralized Networks
 
 **Author:** ek0ms savi0r | CEH  
-**Affiliation:** Security Researcher  
+**Affiliation:** Security Researcher | saviorSEC
 **Contact:** https://github.com/ekomsSavior  
-**Publication Date:** December 2025  
+**Publication Date:** Nov. 2025  
 **Document Version:** 2.0  
 
 ---
